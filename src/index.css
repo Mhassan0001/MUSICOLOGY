@@ -1,0 +1,155 @@
+ul li{
+  list-style: none;
+}
+
+body{
+  background-color: black;
+}
+.sze{
+  height: 14.6rem;
+  width: 17rem;
+}
+.customizep{
+  padding-top: 4rem;
+  padding-bottom: 10rem;
+}
+.customizepab{
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+ 
+}
+.orange{
+  background-color: orangered;
+}
+
+
+.service{
+  background-color: rgb(43, 205, 226);
+  height: 50rem;
+}
+
+.white{
+  color: white;
+}
+
+
+#hh{
+  padding-top: 102rem;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nav-link{
+  cursor: pointer;
+
+}
+
+.navbar-brand{
+  height: 3rem;
+}
+
+#hover:hover{
+  color: orangered;
+  
+}
+
+#home{
+  background-position: cover;
+  background: url('../src/img/b.png');
+  height: 40rem;
+}
+
+.pt-5{
+  padding-top: 30rem;
+}
+
+.al{
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+}
+
+.al:hover{
+  color: orangered;
+}
+
+.cursor{
+  cursor: pointer;
+}
+
+.cursor:hover{
+  color: orangered;
+}
+
+.lite{
+  background-color: rgba(245, 30, 15, 0.591);
+}
+
+
+.imgco{
+  background: url('./img/i.png');
+  /* background-repeat: no-repeat; */
+  
+ 
+ 
+}
+
+.bl{
+  background-color: rgb(255, 68, 0);
+}
+
+.customizeaboutp{
+  padding-top: 15rem;
+  padding-bottom: 10rem;
+}
+
+/* .btn{
+  background-color: orangered ;
+  color: white;
+} */
+.ik{
+  background-color: orangered !important;
+  color: white !important;
+}
+
+.wh{
+  width: 17rem;
+  height: 13rem;
+  background-color: grey;
+}
+
+.orangec{
+  color: orangered;
+}
+@media (max-width:768px) {
+
+  .customizeaboutp{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  #home{
+    /* background-size: 2rem; */
+    /* background-position: cover; */
+   
+    background: url('./img/v.png');
+    background-color: black;
+    color: white;
+
+
+   
+  
+  }
+  .wh{
+    width: 17rem;
+    height: 12rem;
+    background-color: grey;
+  }
+}
+
+
+
+
+
